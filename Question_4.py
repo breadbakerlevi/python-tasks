@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Kandidatnr: 77
-Question 4.
-"""
 
 def main():
     print("== Palindrome Checker ==\n")

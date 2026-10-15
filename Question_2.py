@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Kandidatnr: 77
-Question 2.
-"""
+
 
 class Book:
     def __init__(self, title, author, num_pages):

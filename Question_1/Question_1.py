@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Kandidatnr: 77
-Question 1.
-"""
+
 import random
 
 def read_file():

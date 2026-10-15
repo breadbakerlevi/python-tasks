@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Kandidatnr: 77
-Question 3.
-"""
 
 class Menu: 
     def __init__(self):
